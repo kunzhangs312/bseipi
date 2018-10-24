@@ -1,0 +1,14 @@
+*.pyc
+*.db
+*.so
+*.egg
+*.egg-info
+*.log
+dist
+build
+.idea
+.svn
+venv
+static
+templates
+__pycache__
